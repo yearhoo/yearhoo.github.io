@@ -828,6 +828,11 @@ footer {
     background-color: #f8f9fa;
 }
 
+.qr-placeholder img {
+    width: 200px;
+    height: 200px;
+}
+
 .qr-placeholder i {
     font-size: 3rem;
     color: #ccc;
